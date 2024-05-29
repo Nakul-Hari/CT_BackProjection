@@ -18,7 +18,7 @@ This repository contains MATLAB code for three stages of back projections used i
 
 1. Clone this repository to your local machine using:
     ```
-    git clone https://github.com/your-username/back-projection-techniques.git
+    git clone https://github.com/Nakul-Hari/CT_BackProjection.git
     ```
 2. Open MATLAB and navigate to the cloned repository directory.
 
